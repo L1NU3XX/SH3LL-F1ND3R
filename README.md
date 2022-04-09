@@ -3,6 +3,6 @@
 <img src="https://github.com/L1NU3XX/SH3LL-F1ND3R/img/L1NU3X"></img>
 
 # How To Use
-'git clone https://github.com/L1NU3XX/SH3LL-F1ND3R'
-'cd SH3LL-F1ND3R'
-'perl SH3LL-F1ND3R.pl'
+`$ git clone https://github.com/L1NU3XX/SH3LL-F1ND3R`
+`$ cd SH3LL-F1ND3R`
+`$ perl SH3LL-F1ND3R.pl`
